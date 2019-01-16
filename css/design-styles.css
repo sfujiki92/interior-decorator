@@ -1,4 +1,19 @@
 .column {
   width: 300px;
   float: left;
+  border: 2px solid darkgreen;
+  margin: 15px;
+  padding: 10px;
+}
+
+.one {
+  background-color: yellow;
+}
+
+.two {
+  background-color: pink;
+}
+
+.three {
+  background-color: orange;
 }
